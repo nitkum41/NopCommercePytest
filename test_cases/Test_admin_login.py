@@ -4,13 +4,15 @@ from selenium.webdriver.common.by import By
 
 from base_pages.Login_Admin_Page import LoginAdminPage
 from test_cases.conftest import setup
-
+from utilities.read_properties import  ReadConfig
 
 class Test01AdminLogin:
-    admin_page_url = "https://admin-demo.nopcommerce.com/login"
-    username = "admin@yourstore.com"
-    password = "admin"
-    invalid_username = "abc@yourstore.com"
+
+    ##use Read config class to read common static method data
+    admin_page_url = ReadConfig.get_admin_page_url()
+    username = ReadConfig.get_username()
+    password = ReadConfig.get_password()
+    invalid_username = ReadConfig.get_invalid_username()
 
     def test_title_verification(self, setup):
         self.driver = setup ## fixtures for repetiive code
