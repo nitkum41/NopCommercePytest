@@ -1,0 +1,48 @@
+2025-02-18 21:36:13:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-18 21:36:15:INFO:******Test01AdminLogin*******
+2025-02-18 21:36:15:INFO:******test_title_verification*******
+2025-02-18 21:36:19:INFO:******Title Not Match*******
+2025-02-18 21:36:20:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-18 21:36:33:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-18 21:37:35:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-18 21:37:36:INFO:******Test01AdminLogin*******
+2025-02-18 21:37:36:INFO:******test_title_verification*******
+2025-02-18 21:37:39:INFO:******Title Not Match*******
+2025-02-18 21:37:40:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-18 21:37:46:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-18 21:38:45:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-18 21:38:46:INFO:******Test01AdminLogin*******
+2025-02-18 21:38:46:INFO:******test_title_verification*******
+2025-02-18 21:38:49:INFO:******Title Match*******
+2025-02-18 21:38:50:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-18 21:38:57:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:32:15:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:32:16:INFO:******Test01AdminLogin*******
+2025-02-19 00:32:16:INFO:******test_title_verification*******
+2025-02-19 00:32:19:INFO:******Title Match*******
+2025-02-19 00:32:19:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:32:25:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:34:28:INFO:******Test01AdminLogin*******
+2025-02-19 00:34:28:INFO:******test_title_verification*******
+2025-02-19 00:34:30:INFO:******Title Match*******
+2025-02-19 00:35:19:WARNING:The msedgedriver version (131.0.2903.112) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (133.0.3065.69); currently, msedgedriver 133.0.3065.69 is recommended for MicrosoftEdge 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:35:24:WARNING:The msedgedriver version (131.0.2903.112) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (133.0.3065.69); currently, msedgedriver 133.0.3065.69 is recommended for MicrosoftEdge 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:35:28:WARNING:The msedgedriver version (131.0.2903.112) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\msedgedriver.exe might not be compatible with the detected MicrosoftEdge version (133.0.3065.69); currently, msedgedriver 133.0.3065.69 is recommended for MicrosoftEdge 133.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:37:18:INFO:******Test01AdminLogin*******
+2025-02-19 00:37:18:INFO:******test_title_verification*******
+2025-02-19 00:37:22:INFO:******Title Match*******
+2025-02-19 00:46:21:INFO:******Test01AdminLogin*******
+2025-02-19 00:46:21:INFO:******test_title_verification*******
+2025-02-19 00:46:23:INFO:******Title Match*******
+2025-02-19 00:57:25:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:57:26:INFO:******Test01AdminLogin*******
+2025-02-19 00:57:26:INFO:******test_title_verification*******
+2025-02-19 00:57:28:INFO:******Title Match*******
+2025-02-19 00:57:29:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 00:57:42:WARNING:The chromedriver version (131.0.6778.204) detected in PATH at C:\Users\nitku\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (132.0.6834.197); currently, chromedriver 132.0.6834.159 is recommended for chrome 132.*, so it is advised to delete the driver in PATH and retry
+2025-02-19 01:03:16:INFO:******Test01AdminLogin*******
+2025-02-19 01:03:16:INFO:******test_title_verification*******
+2025-02-19 01:03:18:INFO:******Title Match*******
+2025-02-19 01:16:03:INFO:******Test01AdminLogin*******
+2025-02-19 01:16:03:INFO:******test_title_verification*******
+2025-02-19 01:16:05:INFO:******Title Match*******
