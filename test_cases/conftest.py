@@ -3,13 +3,13 @@ import pytest
 from selenium import webdriver
 from pytest_metadata.plugin import metadata_key
 
-## for CLI input
+## for CLI input/hooks
 
 def pytest_addoption(parser):
     parser.addoption("--browser",action="store",default="chrome",help="Specify the browser: chrome of firefox or edge")
 
 
-
+# return browser value to the setu up method
 @pytest.fixture()
 def browser(request):
     return request.config.getoption("--browser")
@@ -32,7 +32,7 @@ def setup(browser):
         raise ValueError("Unsupported Browser")
     return driver
 
-#############hooks for adding into custom html reports##########
+#############hooks for adding environment info into custom html reports##########
 
 def pytest_configure(config):
     config.stash[metadata_key]['Project Name'] = "Ecommerce Project , nopcommerce"

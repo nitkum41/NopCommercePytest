@@ -52,3 +52,8 @@
 2025-02-19 22:50:23:INFO:******data driven Testing************
 2025-02-19 22:51:27:INFO:******data driven Testing************
 2025-02-19 22:51:35:INFO:test data failed
+2025-04-24 17:21:47:INFO:******Test01AdminLogin*******
+2025-04-24 17:21:47:INFO:******test_title_verification*******
+2025-04-24 17:21:48:INFO:******Title Match*******
+2025-04-24 17:23:35:INFO:******data driven Testing************
+2025-04-24 17:23:43:INFO:test data failed

@@ -15,6 +15,7 @@ class Test02AdminLoginDataDriven:
     admin_page_url = ReadConfig.get_admin_page_url()
     path = ".//test_data/admin_login_data.xlsx"
 
+    # store status
     status_list =[]
 
     ## call logmaker class to get logger object

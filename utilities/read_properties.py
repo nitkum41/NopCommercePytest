@@ -1,6 +1,10 @@
 import configparser
 
+# create configparser object
 config = configparser.RawConfigParser()
+
+
+# read config.ini file
 
 config.read(".\\configurations\\config.ini")
 
