@@ -17,7 +17,8 @@ class Test01AdminLogin:
     ## call logmaker class to get logger object
     logger = LogMaker.log_gen()
 
-
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_title_verification(self, setup):
 
         self.logger.info("******Test01AdminLogin*******")
@@ -38,6 +39,7 @@ class Test01AdminLogin:
             self.driver.close()
             assert False
 
+    @pytest.mark.regression
     def test_valid_admin_login(self,setup):
 
         ##create driver instance
